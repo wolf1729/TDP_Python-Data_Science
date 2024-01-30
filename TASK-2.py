@@ -1,7 +1,6 @@
 def fibonacci(n):
     a = 0
     b = 1
-    z = [0, 1]
 
     if(n<0):
         return 'invalid input'
